@@ -19,6 +19,6 @@ CSS is responsible for styling our web site.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
   
 ## Applied CSS Selectors
-- Styled Text
-- Styled Web Fonts
-- Styled background color
+- [Styled Text](https://www.w3schools.com/css/css_text.asp)
+- [Styled Web Fonts](https://www.w3schools.com/css/css_font.asp)
+- [Styled background](https://www.w3schools.com/css/css_background.asp)
